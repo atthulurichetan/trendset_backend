@@ -2,8 +2,8 @@
 
 ### URL
 
-### [Live Demo](https://trendsetnext.vercel.app/)
-### [Front End source code](https://github.com/RajuNiranjan/ecommerce_next_frontend)
+### [Live Demo](https://trendset-ui.vercel.app/)
+### [Front End source code](https://github.com/atthulurichetan/trendset_ui.git)
 
 ## Table of Contents
 
@@ -90,11 +90,11 @@ The API is structured as follows:
 - clone the repository:
 
 ```
-git clone https://github.com/RajuNiranjan/eCommerce_Express_backend
+git clone https://github.com/atthulurichetan/trendset_backend.git
 ```
 
 ```
-cd eCommerce_Express_backend
+cd trendset_backend
 ```
 
 - To Install the Dependencies
